@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://angthric.github.io/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/app/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/assets/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/css/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/data/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/includes/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/item/sitemap.angthric.gz
+Sitemap: https://angthric.github.io/src/sitemap.angthric.gz
